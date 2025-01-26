@@ -2,6 +2,7 @@
 
 Choose which loadout you want to randomize and you will get it. Then theres an option to re-roll if you are unhappy with the results.
 
+
 To-do list:
 
 -Color code stratagems
